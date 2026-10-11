@@ -7,7 +7,7 @@
 ## 原始来源
 
 - [B 站原视频](https://www.bilibili.com/video/BV1yy8Y6jEmz)
-- [用户提供的具体视频时间点（168.3 秒）](https://www.bilibili.com/video/BV1yy8Y6jEmz?t=168.3)
+- [用户确认的完整视频地址（168.3 秒）](https://www.bilibili.com/video/BV1yy8Y6jEmz/?t=168.3&vd_source=a15ac80f47e6d6658318b9dbbb7a344d)
 - [一点创绘工作室主页](https://space.bilibili.com/319672538/)
 - 下载资料名称：2027物流搬运赛道开源方案-一点创绘.zip
 

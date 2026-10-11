@@ -2,6 +2,7 @@
 
 ## Current Status
 
+- 2026-10-11：用户补充确认完整来源地址：https://www.bilibili.com/video/BV1yy8Y6jEmz/?t=168.3&vd_source=a15ac80f47e6d6658318b9dbbb7a344d 。README、SOURCES 和项目规则同步记录；视频编号仍为 BV1yy8Y6jEmz。
 - 2026-10-11：本阶段提交来源索引、版权规则、项目工作规则、首轮核查记录和 .gitignore。
 - 原始下载包的代码、模型、图片、清单、数据集、权重及压缩包均未公开上传。
 - 首轮检查覆盖外层目录和 3 个不同程序包；检查结果见 docs/LICENSE_REVIEW.md。

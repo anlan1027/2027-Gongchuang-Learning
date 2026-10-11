@@ -5,7 +5,7 @@
 # 已确认的项目约束
 
 - 仓库维护者为 anlan1027；参考视频发布者为一点创绘工作室。
-- 来源：https://www.bilibili.com/video/BV1yy8Y6jEmz?t=168.3 。
+- 来源：https://www.bilibili.com/video/BV1yy8Y6jEmz/?t=168.3&vd_source=a15ac80f47e6d6658318b9dbbb7a344d 。
 - 当前只有视频与下载资料，尚无覆盖整套方案的公开转载许可。
 - 当前发布范围为来源索引、版权规则和核查记录。公开导入原始资料前必须取得对应范围的明确授权。
 - 保留原作者、第三方的署名、版权、许可及 NOTICE；不冒充原创，不自行更换第三方许可。
