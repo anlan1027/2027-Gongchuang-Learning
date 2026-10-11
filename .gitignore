@@ -1,0 +1,31 @@
+# Original downloads and pending-rights materials remain local.
+/upstream/
+/raw-source/
+/local-private/
+/downloads/
+/work/
+/outputs/
+*.zip
+*.7z
+*.rar
+*.exe
+
+# Credentials and personal machine files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+Thumbs.db
+.DS_Store
+
+# Generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.log
